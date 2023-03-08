@@ -1,16 +1,15 @@
-### Hi there 👋
+Hi 🖐 my Name is Ayomide Adeniyi
 
-<!--
-**Keemey/keemey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Web-app Developer
 
-Here are some ideas to get you started:
+Being a result-driven full web-app developer with over a year experience in full stack web-app development and intermediate knowledge of 	HTML, CSS, BOOTSTRAP, PYTHON AND DJANGO, I am dedicated to creating and optimizing user-friendly web solutions and interactions for organizations to help them achieve their goals.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+•🌎 I'm based in Nigeria
+
+•📧 You can contact me at ayomadeniyi@gmail.com
+
+SKILLS
+
+![image](https://user-images.githubusercontent.com/121904838/223646624-d34c5644-5a3b-4527-bdfb-cde7d02096da.png)
+![image](https://user-images.githubusercontent.com/121904838/223646821-c0cc7397-714b-4286-b84a-d2f994280f62.png)
+![image](https://user-images.githubusercontent.com/121904838/223647472-f1692078-1534-4919-85d2-ad4043bf8aaf.png)
