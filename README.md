@@ -15,4 +15,5 @@ SKILLS
 ![image](https://user-images.githubusercontent.com/121904838/223648091-6a2db8ef-1812-4d0e-8cf7-3452044dc623.png)
 ![image](https://user-images.githubusercontent.com/121904838/223648265-b97c84d8-5084-4719-9461-b86dd996a40b.png)
 ![image](https://user-images.githubusercontent.com/121904838/223648452-6dae610d-984c-4646-82bc-e038b76fe1dc.png)
+![image](https://user-images.githubusercontent.com/121904838/https://www.w3schools.com/images/html5.gif)
 
