@@ -28,13 +28,6 @@ Web App Developer
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
  </picture> 
 </a>
-<a href="http://www.instagram.com/keemeayo" target="_blank" rel="noreferrer">
-    <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readmegenerator/main/public/icons/socials/instagram.svg" />
-        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readmegenerator/main/public/icons/socials/instagram.svg"/>
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" />
-    </picture>
-</a>
 
 <a href="https://www.linkedin.com/in/ayomide-adeniyi-545251267" target="_blank" rel="noreferrer">
   <picture>
