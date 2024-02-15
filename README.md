@@ -4,10 +4,10 @@ Hi 👋 My name is Ayomide Adeniyi
 Web App Developer
 -----------------
 
-🌍  I'm based in lagos
-✉️  You can contact me at [ayomadeniyi@outlook.com](mailto:ayomadeniyi@outlook.com)
-🧠  I'm learning flask
-🤝  I'm open to collaborating on interesting projects
+*🌍  I'm based in lagos
+*✉️  You can contact me at [ayomadeniyi@outlook.com](mailto:ayomadeniyi@outlook.com)
+*🧠  I'm learning flask
+*🤝  I'm open to collaborating on interesting projects
 <p><a href="https://www.x.com/keemeayo" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/keemeayo?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 </p><br>  
 
