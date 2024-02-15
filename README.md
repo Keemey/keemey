@@ -5,7 +5,7 @@ Web App Developer
 -----------------
 
 * 🌍  I'm based in lagos
-* ✉️  You can contact me  @[ayomadeniyi@outlook.com](mailto:ayomadeniyi@outlook.com)
+* ✉️  You can contact me at [ayomadeniyi@outlook.com](mailto:ayomadeniyi@outlook.com)
 * 🧠  I'm learning flask
 * 🤝  I'm open to collaborating on interesting projects
 <p><a href="https://www.x.com/keemeayo" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/keemeayo?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
@@ -30,7 +30,7 @@ Web App Developer
 </a>
 <a href="http://www.instagram.com/keemeayo" target="_blank" rel="noreferrer">
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="undefined" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readmegenerator/main/public/icons/socials/instagram.svg" />
         <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readmegenerator/main/public/icons/socials/instagram.svg"/>
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" />
     </picture>
